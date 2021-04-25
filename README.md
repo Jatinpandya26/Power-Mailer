@@ -1,4 +1,4 @@
-# Power-Mailer
+-----------------------
 
 ## Mass Mailing flow for Developer Communities Powered by Power Automate, Office 360 and Azure(Power Platform Services Environment).
 
