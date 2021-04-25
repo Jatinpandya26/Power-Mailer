@@ -8,3 +8,5 @@ Since Google/Gmail has banned python scripts and now not properly working with U
 
 ## Made by - Jatin Pandya(Gold, Microsoft Learn Student Ambassador)
 ### Machine Learning Mail Content Sentiment Analysis coming soon
+
+-----------------------
